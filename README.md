@@ -1,4 +1,4 @@
- **Learn Python 🐍 – My Coding Journey**
+## **Learn Python 🐍 – My Coding Journey**
 
 This repository is my personal journey in learning Python. Here, I practice coding exercises, small projects, and explore different Python concepts.
 
